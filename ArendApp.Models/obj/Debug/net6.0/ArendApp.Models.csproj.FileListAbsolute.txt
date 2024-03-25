@@ -1,0 +1,12 @@
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\bin\Debug\net6.0\ArendApp.Models.deps.json
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\bin\Debug\net6.0\ArendApp.Models.dll
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\bin\Debug\net6.0\ArendApp.Models.pdb
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ArendApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ArendApp.Models.AssemblyInfoInputs.cache
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ArendApp.Models.AssemblyInfo.cs
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ArendApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ArendApp.Models.sourcelink.json
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ArendApp.Models.dll
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\refint\ArendApp.Models.dll
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ArendApp.Models.pdb
+C:\Users\Yakoo\source\repos\ArendApp\ArendApp.Models\obj\Debug\net6.0\ref\ArendApp.Models.dll

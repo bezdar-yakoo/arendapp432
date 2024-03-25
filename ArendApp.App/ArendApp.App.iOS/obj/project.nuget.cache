@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "hh+Akb/K6DgbJOjf7+M1YfMaVf6IJ3rTeEfrWMe3fCEX2lM+AUoG7TMWK6wKl0O9Ut7KFEpDoIQX2g/f2ayCew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.iOS\\ArendApp.App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yakoo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Yakoo\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Обнаружено понижение версии пакета Xamarin.Essentials с 1.8.1 на 1.7.0. Чтобы выбрать другую версию, создайте ссылку на пакет напрямую из проекта. \r\n ArendApp.App.iOS -> ArendApp.App -> Xamarin.Essentials (>= 1.8.1) \r\n ArendApp.App.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Обнаружено понижение версии пакета Xamarin.Forms с 5.0.0.2622 на 5.0.0.2196. Чтобы выбрать другую версию, создайте ссылку на пакет напрямую из проекта. \r\n ArendApp.App.iOS -> ArendApp.App -> Xamarin.Forms (>= 5.0.0.2622) \r\n ArendApp.App.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

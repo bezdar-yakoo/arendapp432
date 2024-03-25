@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ArendApp.App.Views.UserProfilePage"
+             xmlns:converters="clr-namespace:ArendApp.App.Extensions;assembly=ArendApp.App"
+             Title="Профиль" x:Name="PageSelf">
+    <Shell.TitleView>
+        <Grid IsVisible="{Binding UserIsNotNull}" BackgroundColor="Transparent">
+            <Label Text="{Binding Title}" Grid.ColumnSpan="2" VerticalOptions="Center" TextColor="White" FontSize="20" FontAttributes="Bold"/>
+            <Button Text="Отменить" FontSize="12" IsVisible="{Binding MayChangeUser}"  Command="{Binding EnableChangeUserCommand}" Grid.Column="2"/>
+            <Button Text="Изменить" FontSize="12" IsVisible="{Binding MayChangeUser, Converter={StaticResource inverseBoolConverter}}" Command="{Binding EnableChangeUserCommand}" Grid.Column="2"/>
+            <Button Text="Выйти" FontSize="12" Command="{Binding LogoutCommand}" Grid.Column="3" HorizontalOptions="EndAndExpand" />
+        </Grid>
+    </Shell.TitleView>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:InverseBoolConverter x:Key="inverseBoolConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <RefreshView  IsRefreshing="{Binding IsRefreshing, Mode=TwoWay}"
+         Command="{Binding RefreshingCommand}">
+            <ScrollView>
+                <StackLayout Margin="5">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0" Grid.Column="0" VerticalTextAlignment="Center" FontSize="Body" Text="Email:"/>
+                        <Entry Grid.Row="0" Grid.Column="1" HorizontalTextAlignment="Center" IsEnabled="{Binding MayChangeUser}" Text="{Binding UserData.Email, Mode=TwoWay}"/>
+                        <Label Grid.Row="1" Grid.Column="0" VerticalTextAlignment="Center" FontSize="Body" Text="Name:"/>
+                        <Entry Grid.Row="1" Grid.Column="1" HorizontalTextAlignment="Center" IsEnabled="{Binding MayChangeUser}" Text="{Binding UserData.Name, Mode=TwoWay}"/>
+                        <Label Grid.Row="2" Grid.Column="0" VerticalTextAlignment="Center" FontSize="Body" Text="Password:"/>
+                        <Entry Grid.Row="2" Grid.Column="1" HorizontalTextAlignment="Center" IsEnabled="{Binding MayChangeUser}" IsPassword="True" Text="{Binding UserData.Password, Mode=TwoWay}"/>
+                    </Grid>
+                    <Grid IsVisible="{Binding MayChangeUser}" >
+                        <Button Command="{Binding ResetUserDataCommand}" Text="Сбросить изменения" Grid.Column="0"/>
+                        <Button Command="{Binding SaveUserDataCommand}" Text="Сохранить" Grid.Column="1"/>
+                    </Grid>
+                    
+                    <BoxView Margin="5" Color="LightGray" CornerRadius="2" HeightRequest="2"/>
+
+                    <Label Text="Сейчас в пользовании:" FontSize="Body"/>
+                    <CarouselView ItemsSource="{Binding Inventory}" 
+                         HeightRequest="250">
+                        <CarouselView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid WidthRequest="250">
+                                    <Grid.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding Source={x:Reference PageSelf}, Path=OpenProductPageCommand}" CommandParameter="{Binding Id}"/>
+                                    </Grid.GestureRecognizers>
+                                    <Frame>
+                                        <Frame CornerRadius="10" Padding="0" Margin="10"   HasShadow="True">
+                                            <Grid >
+                                                <Grid.RowDefinitions>
+                                                    <!-- img -->
+                                                    <RowDefinition Height="4*"/>
+                                                    <RowDefinition/>
+                                                </Grid.RowDefinitions>
+                                                <Grid.ColumnDefinitions>
+
+                                                </Grid.ColumnDefinitions>
+
+
+                                                <Image Source="{Binding MainImage}" Aspect="AspectFit"  WidthRequest="250" HeightRequest="200" Grid.Column="0" Grid.Row="0"/>
+                                                <Label Text="{Binding Name}" HorizontalOptions="Center" FontSize="Body" FontAttributes="Bold"  Grid.Column="0" Grid.Row="1"/>
+                                            </Grid>
+                                        </Frame>
+                                    </Frame>
+                                    
+                                </Grid>
+                            </DataTemplate>
+                        </CarouselView.ItemTemplate>
+                    </CarouselView>
+
+                    <Label Text="История аренды:" FontSize="Body"/>
+                    <CarouselView ItemsSource="{Binding History}" 
+      HeightRequest="250">
+                        <CarouselView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid WidthRequest="250">
+                                    <Grid.GestureRecognizers>
+                                        <TapGestureRecognizer Command="{Binding Source={x:Reference PageSelf}, Path=OpenProductPageCommand}" CommandParameter="{Binding Id}"/>
+                                    </Grid.GestureRecognizers>
+                                    <Frame>
+                                        <Frame CornerRadius="10" Padding="0" Margin="10"   HasShadow="True">
+                                            <Grid >
+                                                <Grid.RowDefinitions>
+                                                    <!-- img -->
+                                                    <RowDefinition Height="4*"/>
+                                                    <RowDefinition/>
+                                                </Grid.RowDefinitions>
+                                                <Grid.ColumnDefinitions>
+
+                                                </Grid.ColumnDefinitions>
+
+
+                                                <Image Source="{Binding MainImage}" Aspect="AspectFit"  WidthRequest="250" HeightRequest="200" Grid.Column="0" Grid.Row="0"/>
+                                                <Label Text="{Binding Name}" HorizontalOptions="Center" FontSize="Body" FontAttributes="Bold"  Grid.Column="0" Grid.Row="1"/>
+                                            </Grid>
+                                        </Frame>
+                                    </Frame>
+
+                                </Grid>
+                            </DataTemplate>
+                        </CarouselView.ItemTemplate>
+                    </CarouselView>
+                </StackLayout>
+            </ScrollView>
+        </RefreshView>
+    </ContentPage.Content>
+</ContentPage>
