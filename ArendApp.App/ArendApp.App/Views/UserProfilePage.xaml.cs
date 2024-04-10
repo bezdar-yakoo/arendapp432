@@ -39,7 +39,7 @@ namespace ArendApp.App.Views
         private bool _mayChangeUser = false;
 
         private User _user;
-        public ObservableCollection<Product> Inventory { get; set; } = new ObservableCollection<Product>();
+       // public ObservableCollection<Product> Inventory { get; set; } = new ObservableCollection<Product>();
         public ObservableCollection<Product> History { get; set; } = new ObservableCollection<Product>();
 
         #region Commands
@@ -86,7 +86,6 @@ namespace ArendApp.App.Views
             {
                 var allProducts = new List<Product>();
                 allProducts.AddRange(History);
-                allProducts.AddRange(Inventory);
 
                 var product = allProducts.FirstOrDefault(t => t.Id == (int)id);
 
@@ -131,13 +130,7 @@ namespace ArendApp.App.Views
             var allInventory = await _apiService.GetInventory();
             if (allInventory.IsSuccessful)
             {
-                var inventory = allInventory.Data.Where(t => t.EndPeriod > DateTime.Now);
-                var inventoryProducts = await _apiService.GetProducts(inventory.Select(x => x.ProductId));
-
-                Inventory.Clear();
-                inventoryProducts.Data.ForEach((ptoduct) => Inventory.Add(ptoduct));
-
-                var histori = allInventory.Data.Where(t => t.EndPeriod < DateTime.Now);
+                var histori = allInventory.Data;
                 var historiProducts = await _apiService.GetProducts(histori.Select(x => x.ProductId));
 
                 History.Clear();

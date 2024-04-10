@@ -2171,11 +2171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.iOS\\ArendApp.App.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.iOS\\ArendApp.App.iOS.csproj",
       "projectName": "ArendApp.App.iOS",
-      "projectPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.iOS\\ArendApp.App.iOS.csproj",
+      "projectPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.iOS\\ArendApp.App.iOS.csproj",
       "packagesPath": "C:\\Users\\Yakoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2196,8 +2196,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj": {
-              "projectPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj"
+            "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj": {
+              "projectPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj"
             }
           }
         }

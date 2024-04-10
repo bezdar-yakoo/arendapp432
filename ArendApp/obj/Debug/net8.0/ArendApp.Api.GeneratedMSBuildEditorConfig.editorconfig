@@ -17,151 +17,151 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArendApp.Api
 build_property.RootNamespace = ArendApp.Api
-build_property.ProjectDir = C:\Users\Yakoo\source\arendapp — копия\ArendApp\
+build_property.ProjectDir = C:\Users\Yakoo\source\repos\arendapp432\ArendApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Yakoo\source\arendapp — копия\ArendApp
+build_property.MSBuildProjectDirectory = C:\Users\Yakoo\source\repos\arendapp432\ArendApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Home/Index.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Images/Create.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Images/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Images/Delete.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Images/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Images/Details.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Images/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Images/Index.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Images/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Products/Create.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Products/Delete.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Products/Details.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Products/Edit.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Products/Index.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/SendedCodes/Create.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/SendedCodes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZGVkQ29kZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/SendedCodes/Delete.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/SendedCodes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZGVkQ29kZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/SendedCodes/Details.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/SendedCodes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZGVkQ29kZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/SendedCodes/Edit.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/SendedCodes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZGVkQ29kZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/SendedCodes/Index.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/SendedCodes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VuZGVkQ29kZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Shared/Error.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserBaskets/Create.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserBaskets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckJhc2tldHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserBaskets/Delete.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserBaskets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckJhc2tldHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserBaskets/Details.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserBaskets/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckJhc2tldHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserBaskets/Edit.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserBaskets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckJhc2tldHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserBaskets/Index.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserBaskets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckJhc2tldHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserInventories/Create.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserInventories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckludmVudG9yaWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserInventories/Delete.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserInventories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckludmVudG9yaWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserInventories/Details.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserInventories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckludmVudG9yaWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserInventories/Edit.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserInventories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckludmVudG9yaWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/UserInventories/Index.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/UserInventories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckludmVudG9yaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Users/Create.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Users/Delete.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Users/Details.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Users/Edit.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Users/Index.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/_ViewImports.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/_ViewStart.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Yakoo/source/arendapp — копия/ArendApp/Views/Shared/_Layout.cshtml]
+[C:/Users/Yakoo/source/repos/arendapp432/ArendApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l9nrthshac

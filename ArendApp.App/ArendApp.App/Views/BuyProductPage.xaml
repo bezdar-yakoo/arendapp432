@@ -11,7 +11,7 @@
                         <ColumnDefinition Width="150"/>
                         <ColumnDefinition/>
                     </Grid.ColumnDefinitions>
-                    <Image Source="{Binding Product.MainImage}" Aspect="AspectFill"  Grid.Column="0" Grid.Row="0" />
+                    <Image Source="{Binding Product.MainImage}" Aspect="AspectFill" HeightRequest="150" WidthRequest="150"  Grid.Column="0" Grid.Row="0" />
 
                     <Grid Grid.Column="1" Grid.Row="0" VerticalOptions="Center">
                         <Label Text="{Binding Product.Name}" Grid.Row="0"/>
@@ -47,27 +47,6 @@
 
             <StackLayout Margin="5">
 
-                <Label Text="Залог:" FontSize="Body"/>
-                <Label HorizontalTextAlignment="Center" Text="{Binding Deposit}" FontAttributes="Italic"/>
-
-                <Label Text="На сколько дней хоите взять?" FontSize="Body"/>
-                <Grid>
-                    <Label HorizontalOptions="Center" VerticalTextAlignment="Center" Text="На один день" Grid.Column="0"/>
-                    <Label HorizontalOptions="Center" VerticalTextAlignment="Center" Text="На три дня" Grid.Column="1"/>
-                    <Label HorizontalOptions="Center" VerticalTextAlignment="Center" Text="На неделю" Grid.Column="2"/>
-                    <Label HorizontalOptions="Center" VerticalTextAlignment="Center" Text="На две недели" Grid.Column="3"/>
-                    <Label HorizontalOptions="Center" VerticalTextAlignment="Center" Text="На месяц" Grid.Column="4"/>
-                </Grid>
-                <Grid>
-                    <Slider x:Name="PeriodSlider" MaximumTrackColor="LightPink" MinimumTrackColor="LightPink" Margin="20,0,20,0" Grid.ColumnSpan="5" Value="2" Maximum="5" Minimum="1.0" HorizontalOptions="FillAndExpand" ValueChanged="slider_ValueChanged" />
-                    
-                    <Ellipse Grid.Column="0" HeightRequest="14" WidthRequest="14" HorizontalOptions="Center" Stroke="Red" Opacity="0.5" StrokeThickness="2" VerticalOptions="Center"/>
-                    <Ellipse Grid.Column="1" HeightRequest="14" WidthRequest="14" HorizontalOptions="Center" Stroke="Red" Opacity="0.5" StrokeThickness="2" VerticalOptions="Center"/>
-                    <Ellipse Grid.Column="2" HeightRequest="14" WidthRequest="14" HorizontalOptions="Center" Stroke="Red" Opacity="0.5" StrokeThickness="2" VerticalOptions="Center"/>
-                    <Ellipse Grid.Column="3" HeightRequest="14" WidthRequest="14" HorizontalOptions="Center" Stroke="Red" Opacity="0.5" StrokeThickness="2" VerticalOptions="Center"/>
-                    <Ellipse Grid.Column="4" HeightRequest="14" WidthRequest="14" HorizontalOptions="Center" Stroke="Red" Opacity="0.5" StrokeThickness="2" VerticalOptions="Center"/>
-                </Grid>
-                <Label HorizontalTextAlignment="Center" Text="{Binding CalculatedPrice}" FontAttributes="Italic"/>
                 <Button Text="Купить" Command="{Binding BuyCommand}"/>
             </StackLayout>
             

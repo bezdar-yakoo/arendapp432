@@ -25,9 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638469922626708002
+_nugetassetstimestamp=638483710632740503
 typemapkind=strings-asm
 androidsupportedabis=armeabi-v7a
+x86
+x86_64
 arm64-v8a
 androidmanifestplaceholders=
-projectfullpath=c:\users\yakoo\source\repos\arendapp\arendapp.app\arendapp.app.android\arendapp.app.android.csproj
+projectfullpath=c:\users\yakoo\source\repos\arendapp432\arendapp.app\arendapp.app.android\arendapp.app.android.csproj

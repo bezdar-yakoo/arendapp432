@@ -43,50 +43,18 @@
                     
                     <BoxView Margin="5" Color="LightGray" CornerRadius="2" HeightRequest="2"/>
 
-                    <Label Text="Сейчас в пользовании:" FontSize="Body"/>
-                    <CarouselView ItemsSource="{Binding Inventory}" 
-                         HeightRequest="250">
+                    <Label Text="История:" FontSize="Body"/>
+                    <Grid>
+                        <CarouselView ItemsSource="{Binding History}" WidthRequest="200"
+                        HeightRequest="250">
                         <CarouselView.ItemTemplate>
                             <DataTemplate>
-                                <Grid WidthRequest="250">
+                                <Grid WidthRequest="200">
                                     <Grid.GestureRecognizers>
                                         <TapGestureRecognizer Command="{Binding Source={x:Reference PageSelf}, Path=OpenProductPageCommand}" CommandParameter="{Binding Id}"/>
                                     </Grid.GestureRecognizers>
                                     <Frame>
-                                        <Frame CornerRadius="10" Padding="0" Margin="10"   HasShadow="True">
-                                            <Grid >
-                                                <Grid.RowDefinitions>
-                                                    <!-- img -->
-                                                    <RowDefinition Height="4*"/>
-                                                    <RowDefinition/>
-                                                </Grid.RowDefinitions>
-                                                <Grid.ColumnDefinitions>
-
-                                                </Grid.ColumnDefinitions>
-
-
-                                                <Image Source="{Binding MainImage}" Aspect="AspectFit"  WidthRequest="250" HeightRequest="200" Grid.Column="0" Grid.Row="0"/>
-                                                <Label Text="{Binding Name}" HorizontalOptions="Center" FontSize="Body" FontAttributes="Bold"  Grid.Column="0" Grid.Row="1"/>
-                                            </Grid>
-                                        </Frame>
-                                    </Frame>
-                                    
-                                </Grid>
-                            </DataTemplate>
-                        </CarouselView.ItemTemplate>
-                    </CarouselView>
-
-                    <Label Text="История аренды:" FontSize="Body"/>
-                    <CarouselView ItemsSource="{Binding History}" 
-      HeightRequest="250">
-                        <CarouselView.ItemTemplate>
-                            <DataTemplate>
-                                <Grid WidthRequest="250">
-                                    <Grid.GestureRecognizers>
-                                        <TapGestureRecognizer Command="{Binding Source={x:Reference PageSelf}, Path=OpenProductPageCommand}" CommandParameter="{Binding Id}"/>
-                                    </Grid.GestureRecognizers>
-                                    <Frame>
-                                        <Frame CornerRadius="10" Padding="0" Margin="10"   HasShadow="True">
+                                        <Frame CornerRadius="10" Padding="10" Margin="0"   HasShadow="True">
                                             <Grid >
                                                 <Grid.RowDefinitions>
                                                     <!-- img -->
@@ -108,6 +76,7 @@
                             </DataTemplate>
                         </CarouselView.ItemTemplate>
                     </CarouselView>
+                    </Grid>
                 </StackLayout>
             </ScrollView>
         </RefreshView>

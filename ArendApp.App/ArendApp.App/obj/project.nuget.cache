@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BeVAaLnSXcKZDmqOlz6hGTVE+84Xjp8pzh4dUlRY+H0uhzEmLF2eKRCOHyagDrptI285mS0txnE7DzzCxyubVA==",
+  "dgSpecHash": "BrH4w1vC0IM5f+glq03df1hpaYJ5+VEqU3tAbP+B9XmkY6IhaIyASqldvF0IGR3MfRC2nHWthW5zoTuFDntSFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj",
+  "projectFilePath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yakoo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Yakoo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

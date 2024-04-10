@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArendApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8675219b41cd1eb521ce4193bef75921dde3dda")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArendApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArendApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

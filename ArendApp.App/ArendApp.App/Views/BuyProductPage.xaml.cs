@@ -57,76 +57,12 @@ namespace ArendApp.App.Views
             BuyCommand = new Command(async () =>
             {
                 DateTime endperiod = DateTime.Now;
-                switch ((int)PeriodSlider.Value)
-                {
-                    case 1:
-                        endperiod.AddDays(1);
-                        break;
-                    case 2:
-                        endperiod.AddDays(3);
-                        break;
-                    case 3:
-                        endperiod.AddDays(7);
-                        break;
-                    case 4:
-                        endperiod.AddDays(14);
-                        break;
-                    case 5:
-                        endperiod.AddDays(30);
-                        break;
-
-                }
                 await _apiService.BuyProduct(_product.Id, endperiod);
-                await DisplayAlert("Арендавано!", "Вы успешно арендавали аккумулятор", "Ок");
+                await DisplayAlert("Куплено!", "Вы успешно купили товар", "Ок");
                 App.Current.MainPage = new AppShell();
             });
-            CalculatedPrice = $"Цена за аренду на один день: {_product.OncePrice} в день\nИтого: {_product.OncePrice + _product.Deposit}";
+            CalculatedPrice = $"Итого: {_product.OncePrice}";
             this.BindingContext = this;
-        }
-
-
-
-        private Dictionary<int, string> intToPeriodString = new Dictionary<int, string>()
-        {
-            {1, "один день" },
-            {2, "три дня" },
-            {3, "неделю" },
-            {4, "две недели" },
-            {5, "месяц" },
-
-        };
-
-
-        private void slider_ValueChanged(object sender, ValueChangedEventArgs e)
-        {
-            var slider = (Slider)sender;
-            if (slider == null) return;
-
-            var newValue = Math.Round(e.NewValue);
-
-            slider.Value = newValue;
-            var value = intToPeriodString[(int)slider.Value];
-
-            
-            var sliderValue = (int)slider.Value;
-            switch (sliderValue)
-            {
-                case 1:
-                    CalculatedPrice = $"Цена за аренду на {value}: {_product.OncePrice} в день\nИтого: {_product.OncePrice + _product.Deposit}";
-                    break;
-                case 2:
-                    CalculatedPrice = $"Цена за аренду на {value}: {_product.ThreeDayPrice} в день\nИтого: {_product.ThreeDayPrice * 3 + _product.Deposit}";
-                    break;
-                case 3:
-                    CalculatedPrice = $"Цена за аренду на {value}: {_product.SevenDayPrice} в день\nИтого: {_product.SevenDayPrice * 7 + _product.Deposit}";
-                    break;
-                case 4:
-                    CalculatedPrice = $"Цена за аренду на {value}: {_product.TwoWeekPrice} в день\nИтого: {_product.TwoWeekPrice * 14 + _product.Deposit}";
-                    break;
-                case 5:
-                    CalculatedPrice = $"Цена за аренду на  {value}: {_product.MonthPrice} в день\nИтого: {_product.MonthPrice * 30 + _product.Deposit}";
-                    break;
-            }
         }
     }
 }

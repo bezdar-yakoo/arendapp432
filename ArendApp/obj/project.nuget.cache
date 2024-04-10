@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxGWZo9IhqDIn1ACfvWeNmucBfkcssj3OMYP3QSYWfheBSQ0KpPVvE9rMlLmt40FRVmLj9QQjPV9nyMUJWdBKg==",
+  "dgSpecHash": "2nFnE9g+8jJzVrRjZl9aSGwGkWv29HiId+ZOXrU078C8DrtjkrgMgsYAbKv8FeP9V84pt6Sgs1YdMyfdJGfL0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp\\ArendApp.Api.csproj",
+  "projectFilePath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\ArendApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yakoo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Yakoo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

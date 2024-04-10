@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "\u041D\u043E\u0432\u044B\u0439 \u043F\u0440\u043E\u0444\u0438\u043B\u044C",
+    "Projects": [
+      {
+        "Name": "ArendApp\\ArendApp.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj",
+        "Action": "Start",
+        "DebugTarget": "Pixel 5 - API 33 (Android 13.0\u00A0\u2014 API 33)"
+      }
+    ]
+  }
+]

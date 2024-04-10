@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj": {}
+    "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj": {
+    "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj",
         "projectName": "ArendApp.App.And",
-        "projectPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj",
+        "projectPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj",
         "packagesPath": "C:\\Users\\Yakoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.Android\\obj\\",
+        "outputPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj": {
-                "projectPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj"
+              "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj": {
+                "projectPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj": {
+    "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj",
+        "projectUniqueName": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj",
         "projectName": "ArendApp.App",
-        "projectPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj",
+        "projectPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\ArendApp.App.csproj",
         "packagesPath": "C:\\Users\\Yakoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App\\obj\\",
+        "outputPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

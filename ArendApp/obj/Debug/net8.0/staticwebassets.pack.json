@@ -1,275 +1,275 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ArendApp.Api.bundle.scp.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ArendApp.Api.bundle.scp.css",
       "PackagePath": "staticwebassets\\ArendApp.Api.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\640_6c63063a-3b38-11ec-8171-00155d0bfb05.jpg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\640_6c63063a-3b38-11ec-8171-00155d0bfb05.jpg",
       "PackagePath": "staticwebassets\\Images\\640_6c63063a-3b38-11ec-8171-00155d0bfb05.jpg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\8e453a83b73bddb1712e9c259c254750.jpg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\8e453a83b73bddb1712e9c259c254750.jpg",
       "PackagePath": "staticwebassets\\Images\\8e453a83b73bddb1712e9c259c254750.jpg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\ad2m18p1jar5nza08301nvxq1qkfizpw.jpeg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\ad2m18p1jar5nza08301nvxq1qkfizpw.jpeg",
       "PackagePath": "staticwebassets\\Images\\ad2m18p1jar5nza08301nvxq1qkfizpw.jpeg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\bf874f1f52fd46495e9aa3ea675fffbc.jpg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\bf874f1f52fd46495e9aa3ea675fffbc.jpg",
       "PackagePath": "staticwebassets\\Images\\bf874f1f52fd46495e9aa3ea675fffbc.jpg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\d02803d0da65a321ff4c3d39c5c7d936_1608294318_f.jpg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\d02803d0da65a321ff4c3d39c5c7d936_1608294318_f.jpg",
       "PackagePath": "staticwebassets\\Images\\d02803d0da65a321ff4c3d39c5c7d936_1608294318_f.jpg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\il_794xN.1944750380_1yql.jpg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\il_794xN.1944750380_1yql.jpg",
       "PackagePath": "staticwebassets\\Images\\il_794xN.1944750380_1yql.jpg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\images (1).jpg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\images (1).jpg",
       "PackagePath": "staticwebassets\\Images\\images (1).jpg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\Images\\images.jpg",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\Images\\images.jpg",
       "PackagePath": "staticwebassets\\Images\\images.jpg"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp\\ArendApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

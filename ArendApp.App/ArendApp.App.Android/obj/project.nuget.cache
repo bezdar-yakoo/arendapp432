@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VlVHxVEZyDz5W2DAXExZ560ZritdYkuzGovhpWKSkRKDil1+AEi3YAWnDta0p3LB3d434mNleTXrgqqVAY23UQ==",
+  "dgSpecHash": "A5bXf7KrSiI6U06QQ3YpVvFohjFgSOCU9IQMU7ScRefh+NJIbMAPWXkonbZO3zUFwnj2C5gI+qQGHsR6mqBSSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yakoo\\source\\arendapp — копия\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj",
+  "projectFilePath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.App\\ArendApp.App.Android\\ArendApp.App.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yakoo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\Yakoo\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
