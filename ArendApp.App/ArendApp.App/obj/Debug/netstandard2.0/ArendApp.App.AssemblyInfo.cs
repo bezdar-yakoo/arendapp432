@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArendApp.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8675219b41cd1eb521ce4193bef75921dde3dda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a45bc51188a43f9c328f1f886cd6920b973e174")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArendApp.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArendApp.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@
         "projectName": "ArendApp.Models",
         "projectPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.Models\\ArendApp.Models.csproj",
         "packagesPath": "C:\\Users\\Yakoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yakoo\\Source\\Repos\\arendapp432\\ArendApp.Models\\obj\\",
+        "outputPath": "C:\\Users\\Yakoo\\source\\repos\\arendapp432\\ArendApp.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
